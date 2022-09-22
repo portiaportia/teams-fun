@@ -1,4 +1,7 @@
 woohoo
+<<<<<<< HEAD
+wow so cool
+=======
 
 I love invading others files
 woohooooooooooooooooooooooooo

@@ -1,5 +1,6 @@
 woohoo
 
+<<<<<<< HEAD
 
 
 
@@ -8,4 +9,22 @@ chaos
 woohooooooooooooooooooooooooo
 
 
+=======
+<<<<<<< HEAD
+fewjbfiweubf
+
+efenf
+fewjbfiweubfe
+fewjbfiweubff
+efenffe
+fewjbfiweubff
+efenffefe
+fewjbfiweubfe
+fewjbfiweubff
+efenffefefe
+fewjbfiweubfef
+efenffe
+=======
+>>>>>>> f52d031fe8128eb1a8f96522d9d639c5d4e53726
 no please dont change my file
+>>>>>>> d8b147a2a78a2a634d7ddcc1c55e7a15797688f3
